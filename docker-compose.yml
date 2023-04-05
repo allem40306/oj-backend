@@ -1,4 +1,5 @@
 version: "3.7"
+
 services:
   backend:
     image: fjuonlinejudge/cpcoj-backend-builder:latest # or docker.pkg.github.com/fjuonlinejudge/cpcoj-backend-builder/cpcoj-backend-builder:latest
